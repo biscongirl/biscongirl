@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @biscongirl
 - 👀 I’m interested in data analytics, machine learning and AI
-- 🌱 I’m currently learning SQL, PYTHON, R, Looker and Tableau 
 -  💞️ I’m looking to collaborate on data analysis and coding projects 
 - 📫 How to reach me abisolaolanubi@gmail.com
 
